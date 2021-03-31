@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="page_title"> </string>
+    <string name="date"> </string>
+    <string name="time"> </string>
+    <string name="weather_icon">weather_icon</string>
+    <string name="temperature">Temperature</string>
+    <string name="current_temperature"> </string>
+    <string name="pressure">Pressure</string>
+    <string name="current_pressure"> </string>
+    <string name="dawn_time">Dawn Time</string>
+    <string name="current_dawn_time"> </string>
+    <string name="dusk_time">Dusk Time</string>
+    <string name="current_dusk_time"> </string>
+    <string name="weather_note"> Error, location not found! </string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="elderly_mode">Elderly Mode</string>
+    <string name="change_location">Change Location</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_direction">Direction</string>
+    <string name="current_wind_direction" />
+    <string name="current_wind_speed" />
+    <string name="wind_direction_icon">wind_direction_icon</string>
+</resources>

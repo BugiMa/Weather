@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_change_location"
+        android:title="@string/change_location"
+        android:icon="@drawable/ic_edit_location"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView"
+        />
+
+    <item
+        android:id="@+id/action_elderly_mode"
+        android:title="@string/elderly_mode"
+        android:icon="@drawable/ic_elderly_xd"
+        android:checkable="true"
+        app:showAsAction="ifRoom"
+    />
+
+    <item
+        android:id="@+id/action_dark_mode"
+        android:title="@string/dark_mode"
+        android:icon="@drawable/ic_dark_mode"
+        android:checkable="true"
+        app:showAsAction="ifRoom"
+    />
+
+</menu>
